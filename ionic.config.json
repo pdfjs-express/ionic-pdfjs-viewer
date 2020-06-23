@@ -1,0 +1,7 @@
+{
+  "name": "PDFJSViewer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
